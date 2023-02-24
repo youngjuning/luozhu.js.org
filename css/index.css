@@ -4233,7 +4233,10 @@ h1.page-title + .tag-cloud-list {
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
-#post .ads-wrap {
+#post .ads-wrap-top {
+  margin-bottom: 40px 0;
+}
+#post .ads-wrap-bottom {
   margin: 40px 0;
 }
 .relatedPosts {
