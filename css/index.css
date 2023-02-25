@@ -2183,9 +2183,6 @@ figure.highlight pre .javascript .function {
   flex: 1;
   padding: 0 16px;
 }
-.ads-wrap-page {
-  margin-top: 40px;
-}
 .category-lists .category-title {
   font-size: 2.57em;
 }
@@ -2223,9 +2220,6 @@ figure.highlight pre .javascript .function {
   position: relative;
   margin: 6px 0;
   padding: 0.12em 0.4em 0.12em 1.4em;
-}
-.ads-wrap-page {
-  margin-top: 40px;
 }
 #body-wrap {
   display: -webkit-box;
@@ -2327,6 +2321,9 @@ figure.highlight pre .javascript .function {
   -o-transform: translateZ(0);
   -ms-transform: translateZ(0);
   transform: translateZ(0);
+}
+.ads-wrap-page {
+  margin-top: 40px;
 }
 #article-container .flink {
   margin-bottom: 20px;
@@ -4239,10 +4236,7 @@ h1.page-title + .tag-cloud-list {
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
-#post .ads-wrap-top {
-  margin-bottom: 40px 0;
-}
-#post .ads-wrap-bottom {
+#post .ads-wrap {
   margin: 40px 0;
 }
 .relatedPosts {
