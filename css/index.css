@@ -2221,6 +2221,9 @@ figure.highlight pre .javascript .function {
   margin: 6px 0;
   padding: 0.12em 0.4em 0.12em 1.4em;
 }
+.ads-wrap-page {
+  margin-top: 40px;
+}
 #body-wrap {
   display: -webkit-box;
   display: -moz-box;
