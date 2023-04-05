@@ -9,8 +9,39 @@
     <atom:link href="https://youngjuning.js.org/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>洛竹的个人博客，记录分享美好生活、学习笔记、工作经验、编程开发技巧、加密投研、金融知识，总之在洛竹的博客你会发现了一个兴趣广泛且爱折腾的程序员。</description>
-    <pubDate>Wed, 05 Apr 2023 15:24:53 GMT</pubDate>
+    <pubDate>Wed, 05 Apr 2023 16:12:43 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>已解决」Error &quot;Waiting for a runner to pick up this job&quot; using GitHub Actions</title>
+      <link>https://youngjuning.js.org/0c97438eff72/</link>
+      <guid>https://youngjuning.js.org/0c97438eff72/</guid>
+      <pubDate>Wed, 05 Apr 2023 15:36:05 GMT</pubDate>
+      
+      <description>当我使用 GitHub Actions 时，有一个漫长的等待，它显示 &quot;Waiting for a runner to pick up this job&quot;，但是这个配置已经成功运行了很多次，我不知道为什么会出现这个问题。</description>
+      
+      
+      
+      <content:encoded><![CDATA[<p><ins class="adsbygoogle" style="display:block; text-align:center;"  data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7962287588031867" data-ad-slot="2542544532"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({});</script></p><p>当我使用 GitHub Actions 时，有一个漫长的等待，它显示 “Waiting for a runner to pick up this job”，但是这个配置已经成功运行了很多次，我不知道为什么会出现这个问题。</p><p>runner 是由 <code>runs-on</code> 指定的，所以我尝试将 <code>runs-on</code> 的版本从 18 升到了 22，问题解决了。但是我想如果我不想总是升级 runner 的版本，我应该怎么做？我们可以像给 docker 指定 os 一样指定：</p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">runs-on:</span> <span class="string">ubuntu-latest</span></span><br></pre></td></tr></table></figure>]]></content:encoded>
+      
+      
+      <category domain="https://youngjuning.js.org/categories/issues/">issues</category>
+      
+      <category domain="https://youngjuning.js.org/categories/issues/GitHub/">GitHub</category>
+      
+      
+      <category domain="https://youngjuning.js.org/tags/GitHub/">GitHub</category>
+      
+      <category domain="https://youngjuning.js.org/tags/GitHub-Actions/">GitHub Actions</category>
+      
+      <category domain="https://youngjuning.js.org/tags/GitHub-Actions-Error/">GitHub Actions Error</category>
+      
+      <category domain="https://youngjuning.js.org/tags/ci-cd/">ci/cd</category>
+      
+      
+      <comments>https://youngjuning.js.org/0c97438eff72/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hexo 博客 SEO 优化实战</title>
@@ -1447,9 +1478,9 @@
       
       <category domain="https://youngjuning.js.org/tags/%E6%8E%98%E9%87%91/">掘金</category>
       
-      <category domain="https://youngjuning.js.org/tags/VS-Code/">VS Code</category>
-      
       <category domain="https://youngjuning.js.org/tags/Webview/">Webview</category>
+      
+      <category domain="https://youngjuning.js.org/tags/VS-Code/">VS Code</category>
       
       <category domain="https://youngjuning.js.org/tags/%E6%89%A9%E5%B1%95/">扩展</category>
       
