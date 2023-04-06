@@ -9,7 +9,7 @@
     <atom:link href="https://youngjuning.js.org/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>洛竹的个人博客，记录分享美好生活、学习笔记、工作经验、编程开发技巧、加密投研、金融知识，总之在洛竹的博客你会发现了一个兴趣广泛且爱折腾的程序员。</description>
-    <pubDate>Thu, 06 Apr 2023 10:54:38 GMT</pubDate>
+    <pubDate>Thu, 06 Apr 2023 15:01:33 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -1732,9 +1732,9 @@
       
       <category domain="https://youngjuning.js.org/tags/%E6%9D%AD%E5%B7%9E/">杭州</category>
       
-      <category domain="https://youngjuning.js.org/tags/%E5%B9%B4%E5%BA%A6%E8%AE%A1%E5%88%92/">年度计划</category>
-      
       <category domain="https://youngjuning.js.org/tags/swiper/">swiper</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E5%B9%B4%E5%BA%A6%E8%AE%A1%E5%88%92/">年度计划</category>
       
       
       <comments>https://youngjuning.js.org/cb03d5cd6dce/#disqus_thread</comments>
@@ -1787,8 +1787,6 @@
       <category domain="https://youngjuning.js.org/categories/%E5%89%8D%E7%AB%AF/">前端</category>
       
       
-      <category domain="https://youngjuning.js.org/tags/swiper/">swiper</category>
-      
       <category domain="https://youngjuning.js.org/tags/NPM/">NPM</category>
       
       <category domain="https://youngjuning.js.org/tags/%E5%89%8D%E7%AB%AF/">前端</category>
@@ -1796,6 +1794,8 @@
       <category domain="https://youngjuning.js.org/tags/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96/">前端工程化</category>
       
       <category domain="https://youngjuning.js.org/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/">前端开发</category>
+      
+      <category domain="https://youngjuning.js.org/tags/swiper/">swiper</category>
       
       
       <comments>https://youngjuning.js.org/db7a22999938/#disqus_thread</comments>
