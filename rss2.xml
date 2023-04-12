@@ -9,7 +9,7 @@
     <atom:link href="https://youngjuning.js.org/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>洛竹的个人博客，记录分享美好生活、学习笔记、工作经验、编程开发技巧、加密投研、金融知识、联盟营销和跨境电商，总之在洛竹的博客你会发现了一个兴趣广泛且爱折腾的程序员。</description>
-    <pubDate>Wed, 12 Apr 2023 06:40:14 GMT</pubDate>
+    <pubDate>Wed, 12 Apr 2023 06:45:09 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -625,6 +625,43 @@
       
       
       <comments>https://youngjuning.js.org/65fc6b431371/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>向微软官方贡献 @types 包后引发的思考</title>
+      <link>https://youngjuning.js.org/5d12a72b0712/</link>
+      <guid>https://youngjuning.js.org/5d12a72b0712/</guid>
+      <pubDate>Sun, 26 Mar 2023 15:17:29 GMT</pubDate>
+      
+      <description>在前端社区中，TypeScript 差不多是老生常谈的主题了。这不仅反映了 TypeScript 的流行度，也反映了它的学习上手成本。今天我们不来探讨 TypeScript 本身。而是记录一下我艰难地发布一个 @types包的历程。</description>
+      
+      
+      
+      <content:encoded><![CDATA[<center><script type="text/javascript">atOptions = {'key' : '8f470a3a0b9c8fb81916828853d00507','format' : 'iframe','height' : 90,'width' : 728};document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://harassinganticipation.com/8f470a3a0b9c8fb81916828853d00507/invoke.js"></scr' + 'ipt>');</script></center><p>在前端社区中，TypeScript 差不多是老生常谈的主题了。这不仅反映了 TypeScript 的流行度，也反映了它的学习上手成本。今天我们不来探讨 TypeScript 本身。而是记录一下我艰难地发布一个 <a href="https://www.npmjs.com/package/@types/tuya-panel-kit">@types</a> 包的历程。</p><h2 id="a-year-ago"><a href="#a-year-ago" class="headerlink" title="a year ago"></a>a year ago</h2><p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b4aeb4e02f1640069b7e763ea0b5be40~tplv-k3u1fbpfcp-watermark.image" height="400px"/></p><p>上图是我在掘金的第一篇文章 <a href="https://juejin.cn/post/6844903843155689486">优雅地使用 TypeScript 开发 React Native 应用</a> 中的一条素质问答。问题就是有些库不是 TS 写的，也没提供类型声明该怎么办。从图中可见我当时的解决方法都是不可复用且不利他的。但这就是我这一年来处理该问题的常规手段。</p><p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/04f411da146740aab8f620337a592850~tplv-k3u1fbpfcp-watermark.image" alt=""></p><h2 id="DefinitelyTyped"><a href="#DefinitelyTyped" class="headerlink" title="DefinitelyTyped"></a>DefinitelyTyped</h2><p>像是 Node 有 NPM，Java 有 Maven，TypeScript 也有它的另一半，那就是号称 GitHub review 数量之最的 <a href="https://github.com/DefinitelyTyped/DefinitelyTyped">DefinitelyTyped</a> 项目。</p><p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d503ee17f0ab45068a0d50a4d6f6034a~tplv-k3u1fbpfcp-watermark.image" alt=""></p><p>在 TypeScript 大规模应用之前，社区已经有超过 90% 的顶级 JavaScript 库，或基于 Flow 编写的库（React系）。如果没有 DefinitelyTyped 项目，这些库想要提供类型支持，无疑只有完全重构代码。这既不现实也没必要。</p><blockquote><p>鉴于 DefinitelyTyped 的作用，我们说 DefinitelyTyped 让 TypeScript 再次伟大也不为过。</p></blockquote><p>DefinitelyTyped 目前是由微软官方维护的开源项目，参与的方式和 Homebrew 差不多，都是基于 GitHub 的工作流:</p><ol><li>fork <a href="https://github.com/DefinitelyTyped/DefinitelyTyped">DefinitelyTyped</a> 到自己的账号下</li><li>添加自己的包并编写类型声明</li><li>提交 PR</li><li>官方 review 并合并发布到 NPM</li></ol><h2 id="艰辛的贡献历程"><a href="#艰辛的贡献历程" class="headerlink" title="艰辛的贡献历程"></a>艰辛的贡献历程</h2><p>1、检查是否已存在同名的包：</p><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm info @types/tuya-panel-kit</span><br></pre></td></tr></table></figure><p>2、安装 dts-gen：</p><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g dts-gen</span><br></pre></td></tr></table></figure><p>3、生成新包</p><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">dts-gen --dt --name tuya-panel-kit --template module</span><br></pre></td></tr></table></figure><p>4、格式化代码</p><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm run prettier -- --write types/tuya-panel-kit/**/*.ts</span><br></pre></td></tr></table></figure><p>这一步务必要执行，因为 DefinitelyTyped 十分严格，格式不对过不了 CI。过不了 CI，就只配和机器人对话：</p><p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/140adf442a17460aa845aef8e4b8ac18~tplv-k3u1fbpfcp-watermark.image" alt=""></p><p>5、dtslint</p><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">yarn lint tuya-panel-kit</span><br></pre></td></tr></table></figure><p>这一步是最让人头大的一步，Definitely 的规则可谓严苛，真就对的起它的 SLOGAN：</p><blockquote><p>The repository for high quality TypeScript type definitions</p></blockquote><p>我梳理了一下成功路上的绊脚石：</p><p>1、 <a href="https://github.com/DefinitelyTyped/DefinitelyTyped/issues/24788">Cannot find module ‘csstype’ when npm run lint package-name</a></p><p>这是一个流程 BUG，如果你的包依赖了 react，你需要执行 <code>cd types/react &amp;&amp; npm install</code> 和 <code>cd ~/.dts/typescript-installs/3.2/ &amp;&amp; npm install</code></p><p>2、如果你的包依赖了别的外部库，需要添加到 <a href="https://github.com/microsoft/DefinitelyTyped-tools/pull/165/files">microsoft/DefinitelyTyped-tools</a> 项目中，否则 CI 不给过。</p><p>3、你的类型声明可能有很多不符合 dtslint 的标准，我看到有的包是在 <code>tslint.json</code> 中配置禁用掉部分规则，但是我做了尝试后被人工拒绝了。</p><p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fafa598fac2e4015ab496cc15fd94496~tplv-k3u1fbpfcp-watermark.image" alt=""></p><p>然后我尝试在顶部加入 <code>// tslint:disable:max-line-length</code> 禁用规则，在说明原因后通过了 Review。就在发稿时，最新 PR 却因为一个禁用规则，被要求修改：</p><p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/21a0b43a6f464c47a1b94a5fc7ed619f~tplv-k3u1fbpfcp-watermark.image" alt=""></p><h2 id="规范的重要性"><a href="#规范的重要性" class="headerlink" title="规范的重要性"></a>规范的重要性</h2><p>刚开始时，这种严苛漫长的 review 流程着实让我头大。但在提过 4 个 PR 都被合并后，我发现 review 的人关心的是你为什么要这么写，是不是有什么不得已的苦衷，是否符合高质量的要求。</p><p>在参与 DefinitelyTyped 的协作中，我越来越发现规范的重要。如此体量的项目，如果没有严格有效的规范约束，势必会被开发者抛弃。那我们来看看 DefinitelyTyped 中是如何约束的：</p><ol><li><a href="https://github.com/microsoft/dtslint">dtslint</a> ：微软专门写的用来检验类型声明文件的工具。正是因为它，我做了大量优化工作。</li><li>机器人🤖（dt-mergebot、dt-review-bot、typescript-bot-watchdog）：在你的代码通过所有规范之前，都是这些机器人在和你交互。大家感兴趣的话，之后我会单独出一篇解析的文章</li><li>尽职尽责的维护：虽然有时 review 速度明显很慢（可能因为国外疫情）。但是这些维护者真的是尽职尽责的 review 你的代码。机器再厉害也只是一个减少工作量的工具。我们应该致敬的还是这些为社区默默奉献的人。</li></ol>]]></content:encoded>
+      
+      
+      <category domain="https://youngjuning.js.org/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      <category domain="https://youngjuning.js.org/categories/%E5%89%8D%E7%AB%AF/TypeScript/">TypeScript</category>
+      
+      
+      <category domain="https://youngjuning.js.org/tags/TypeScript/">TypeScript</category>
+      
+      <category domain="https://youngjuning.js.org/tags/types/">types</category>
+      
+      <category domain="https://youngjuning.js.org/tags/DefinitelyTyped/">DefinitelyTyped</category>
+      
+      <category domain="https://youngjuning.js.org/tags/dts-gen/">dts-gen</category>
+      
+      <category domain="https://youngjuning.js.org/tags/dtslint/">dtslint</category>
+      
+      <category domain="https://youngjuning.js.org/tags/tuya-panel-kit/">tuya-panel-kit</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E5%BE%AE%E8%BD%AF/">微软</category>
+      
+      
+      <comments>https://youngjuning.js.org/5d12a72b0712/#disqus_thread</comments>
       
     </item>
     
