@@ -173,9 +173,9 @@
       
       <categories>
           
-          <category> 前端 </category>
-          
           <category> 洛竹翻译计划 </category>
+          
+          <category> 前端 </category>
           
           <category> 掘金翻译计划 </category>
           
@@ -1574,9 +1574,9 @@
       
       <categories>
           
-          <category> 前端 </category>
-          
           <category> 洛竹翻译计划 </category>
+          
+          <category> 前端 </category>
           
           <category> React </category>
           
@@ -1609,9 +1609,9 @@
       
       <categories>
           
-          <category> 前端 </category>
-          
           <category> 洛竹翻译计划 </category>
+          
+          <category> 前端 </category>
           
           <category> issues </category>
           
@@ -1739,9 +1739,9 @@
       
       <categories>
           
-          <category> 前端 </category>
-          
           <category> 洛竹翻译计划 </category>
+          
+          <category> 前端 </category>
           
           <category> React Native </category>
           
@@ -2138,11 +2138,11 @@
       
         <tags>
             
-            <tag> swiper </tag>
-            
             <tag> 程序员 </tag>
             
             <tag> 杭州 </tag>
+            
+            <tag> swiper </tag>
             
             <tag> 年度计划 </tag>
             
