@@ -347,11 +347,11 @@
     
     
     <entry>
-      <title>已解决」Error &quot;Waiting for a runner to pick up this job&quot; using GitHub Actions</title>
+      <title>「已解决」Error &quot;Waiting for a runner to pick up this job&quot; using GitHub Actions</title>
       <link href="/0c97438eff72/"/>
       <url>/0c97438eff72/</url>
       
-        <content type="html"><![CDATA[<p><ins class="adsbygoogle" style="display:block; text-align:center;"  data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7962287588031867" data-ad-slot="2542544532"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({});</script></p><p>当我使用 GitHub Actions 时，有一个漫长的等待，它显示 “Waiting for a runner to pick up this job”，但是这个配置已经成功运行了很多次，我不知道为什么会出现这个问题。</p><p>runner 是由 <code>runs-on</code> 指定的，所以我尝试将 <code>runs-on</code> 的版本从 18 升到了 22，问题解决了。但是我想如果我不想总是升级 runner 的版本，我应该怎么做？我们可以像给 docker 指定 os 一样指定：</p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">runs-on:</span> <span class="string">ubuntu-latest</span></span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<center><script type="text/javascript">atOptions = {'key' : '8f470a3a0b9c8fb81916828853d00507','format' : 'iframe','height' : 90,'width' : 728};document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://harassinganticipation.com/8f470a3a0b9c8fb81916828853d00507/invoke.js"></scr' + 'ipt>');</script></center><p>当我使用 GitHub Actions 时，有一个漫长的等待，它显示 “Waiting for a runner to pick up this job”，但是这个配置已经成功运行了很多次，我不知道为什么会出现这个问题。</p><p>runner 是由 <code>runs-on</code> 指定的，所以我尝试将 <code>runs-on</code> 的版本从 18 升到了 22，问题解决了。但是我想如果我不想总是升级 runner 的版本，我应该怎么做？我们可以像给 docker 指定 os 一样指定：</p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">runs-on:</span> <span class="string">ubuntu-latest</span></span><br></pre></td></tr></table></figure>]]></content>
       
       
       <categories>
