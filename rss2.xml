@@ -9,14 +9,14 @@
     <atom:link href="https://youngjuning.js.org/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>洛竹的个人博客，记录分享美好生活、学习笔记、工作经验、编程开发技巧、加密投研、金融知识、联盟营销和跨境电商，总之在洛竹的博客你会发现了一个兴趣广泛且爱折腾的程序员。</description>
-    <pubDate>Thu, 20 Apr 2023 03:33:44 GMT</pubDate>
+    <pubDate>Thu, 20 Apr 2023 03:34:50 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>React Native 引入第三方 Android SDK</title>
-      <link>https://youngjuning.js.org/97dff796700c/</link>
-      <guid>https://youngjuning.js.org/97dff796700c/</guid>
-      <pubDate>Thu, 20 Apr 2023 03:33:44 GMT</pubDate>
+      <link>https://youngjuning.js.org/4e8fb8fb4851/</link>
+      <guid>https://youngjuning.js.org/4e8fb8fb4851/</guid>
+      <pubDate>Thu, 20 Apr 2023 03:34:50 GMT</pubDate>
       
       <description>在 React Native 开发中，如果一个原生 SDK 没有适配 React Native 的插件，原则上我们不推荐你使用。但是万不得已的情况下，我们有办法吗？答案是肯定的。步骤大致分为集成 SDK、编写桥接代码。知难行易，本文就是顺着这个思路来解决让前端工程师脑壳疼的集成第三方 SDK 并编写桥接代码的问题。</description>
       
@@ -35,7 +35,7 @@
       <category domain="https://youngjuning.js.org/tags/Android-SDK/">Android SDK</category>
       
       
-      <comments>https://youngjuning.js.org/97dff796700c/#disqus_thread</comments>
+      <comments>https://youngjuning.js.org/4e8fb8fb4851/#disqus_thread</comments>
       
     </item>
     
@@ -599,7 +599,7 @@
       
       <category domain="https://youngjuning.js.org/categories/Google/">Google</category>
       
-      <category domain="https://youngjuning.js.org/categories/Google/Google-Adsense/">Google Adsense</category>
+      <category domain="https://youngjuning.js.org/categories/Google/Adsense/">Adsense</category>
       
       
       <category domain="https://youngjuning.js.org/tags/Google-Adsense/">Google Adsense</category>
@@ -636,7 +636,7 @@
       
       <category domain="https://youngjuning.js.org/categories/Google/">Google</category>
       
-      <category domain="https://youngjuning.js.org/categories/Google/Google-Adsense/">Google Adsense</category>
+      <category domain="https://youngjuning.js.org/categories/Google/Adsense/">Adsense</category>
       
       
       <category domain="https://youngjuning.js.org/tags/Google-Adsense/">Google Adsense</category>
@@ -893,7 +893,7 @@
       
       <category domain="https://youngjuning.js.org/categories/Google/">Google</category>
       
-      <category domain="https://youngjuning.js.org/categories/Google/Google-Adsense/">Google Adsense</category>
+      <category domain="https://youngjuning.js.org/categories/Google/Adsense/">Adsense</category>
       
       <category domain="https://youngjuning.js.org/categories/%E8%BD%AC%E8%BD%BD/">转载</category>
       
@@ -1907,9 +1907,7 @@
       
       <category domain="https://youngjuning.js.org/categories/Google/">Google</category>
       
-      <category domain="https://youngjuning.js.org/categories/Google/Google-Adsense/">Google Adsense</category>
-      
-      <category domain="https://youngjuning.js.org/categories/Adsense/">Adsense</category>
+      <category domain="https://youngjuning.js.org/categories/Google/Adsense/">Adsense</category>
       
       
       <category domain="https://youngjuning.js.org/tags/AdSenseCTR/">AdSenseCTR</category>
@@ -2422,9 +2420,7 @@
       
       <category domain="https://youngjuning.js.org/categories/Google/">Google</category>
       
-      <category domain="https://youngjuning.js.org/categories/Google/Google-Adsense/">Google Adsense</category>
-      
-      <category domain="https://youngjuning.js.org/categories/Adsense/">Adsense</category>
+      <category domain="https://youngjuning.js.org/categories/Google/Adsense/">Adsense</category>
       
       
       <category domain="https://youngjuning.js.org/tags/google-adsense/">google adsense</category>
