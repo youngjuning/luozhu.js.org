@@ -9,14 +9,14 @@
     <atom:link href="https://youngjuning.js.org/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>洛竹的个人博客，记录分享美好生活、学习笔记、工作经验、编程开发技巧、加密投研、金融知识、联盟营销和跨境电商，总之在洛竹的博客你会发现了一个兴趣广泛且爱折腾的程序员。</description>
-    <pubDate>Sun, 23 Apr 2023 05:36:14 GMT</pubDate>
+    <pubDate>Sun, 23 Apr 2023 06:23:01 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>React Native 引入第三方 Android SDK</title>
-      <link>https://youngjuning.js.org/7ed325c42986/</link>
-      <guid>https://youngjuning.js.org/7ed325c42986/</guid>
-      <pubDate>Sun, 23 Apr 2023 05:36:14 GMT</pubDate>
+      <link>https://youngjuning.js.org/7274b9a039f0/</link>
+      <guid>https://youngjuning.js.org/7274b9a039f0/</guid>
+      <pubDate>Sun, 23 Apr 2023 06:23:01 GMT</pubDate>
       
       <description>在 React Native 开发中，如果一个原生 SDK 没有适配 React Native 的插件，原则上我们不推荐你使用。但是万不得已的情况下，我们有办法吗？答案是肯定的。步骤大致分为集成 SDK、编写桥接代码。知难行易，本文就是顺着这个思路来解决让前端工程师脑壳疼的集成第三方 SDK 并编写桥接代码的问题。</description>
       
@@ -35,7 +35,7 @@
       <category domain="https://youngjuning.js.org/tags/Android-SDK/">Android SDK</category>
       
       
-      <comments>https://youngjuning.js.org/7ed325c42986/#disqus_thread</comments>
+      <comments>https://youngjuning.js.org/7274b9a039f0/#disqus_thread</comments>
       
     </item>
     
@@ -925,7 +925,7 @@
       
       
       
-      <content:encoded><![CDATA[<div class="note info modern"><p>AdSense 的付款周期为每月一次。</p></div><p><ins class="adsbygoogle" style="display:block; text-align:center;"  data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7962287588031867" data-ad-slot="2542544532"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({});</script></p><p>Google Adsense 服务团队会将你一整个月的估算收入累积起来，然后在下个月月初确定你的最终收入，将其计入帐号余额并显示在付款页中。</p><p>如果你的余额超出付款最低限额，且你没有设置暂停付款状态，Google Adsense 会在<strong>该月的 21 日至 26 日</strong>为你发放付款。</p><p>请注意，你收到付款的确切时间取决于你所在的时区、21 日是否为周末或节假日以及你选择的付款方式。</p><p><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1680831939815.png" alt="2023 Google Adsense 具体付款时间"></p><h2 id="结算（3-日）"><a href="#结算（3-日）" class="headerlink" title="结算（3 日）"></a>结算（3 日）</h2><p>当月 3 日 Google Adsense 会确定你上个月的估算收入并将其公布到你的付款页上。你会在付款页上看到一个专列项，其中显示了你上月交易的总收入。</p><p>你的付款页还会显示与调整项或费用有关的各种扣减金额。</p><p>请注意，Google Adsense 在确定收入的过程中扣减了你因无效活动而产生的收入，但是你无法看到这些扣减金额的专列项。详细了解<a href="https://support.google.com/adsense/answer/2808531">Google Adsense 无效活动扣减金额</a>。</p><h2 id="付款（20-日）"><a href="#付款（20-日）" class="headerlink" title="付款（20 日）"></a>付款（20 日）</h2><p>如果你需要对付款信息进行更改（包括解除暂停付款状态），请务必在每月的 20 日或之前完成。每月 20 日之后进行的更改要到下一个月的付款周期才会生效。此外，你每月 20 日的总余额必须达到付款最低限额。</p><p>如果你的余额未达到付款最低限额或者你的帐号处于暂停付款状态，那么你在该月不会收到任何付款，且你的余额将会结转到下个月的收入中。</p><h2 id="付款中（21-日-26-日）"><a href="#付款中（21-日-26-日）" class="headerlink" title="付款中（21 日 - 26 日）"></a>付款中（21 日 - 26 日）</h2><p>每月 21 日至 26 日，付款页上会显示一个“正在付款”专列项，表示 Google Adsense 已处理收入并将其支付给你的银行机构。当这条专列项更新为“付款已发出”时，即表示 Google Adsense 银行已同意支付这笔款项，并已发放进行处理。</p><div class="note warning modern"><p>如果 21 日是周末或节假日，那么付款将在该月 21 日之后第一个工作日发放。</p></div><h2 id="7-个工作日"><a href="#7-个工作日" class="headerlink" title="7 个工作日"></a>7 个工作日</h2><p>你最晚会在付款发放后的 7 个工作日内收到付款。如果月底之前你仍未收到付款，请与你的银行机构联系。</p><p>电汇付款可能需要 15 个工作日的时间才能汇入你的账户。电汇到达你银行账户所需的具体时间取决于你账户所在的银行机构。</p>]]></content:encoded>
+      <content:encoded><![CDATA[<div class="note info modern"><p>AdSense 的付款周期为每月一次。</p></div><p><ins class="adsbygoogle" style="display:block; text-align:center;"  data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7962287588031867" data-ad-slot="2542544532"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({});</script></p><p>Google Adsense 服务团队会将你一整个月的估算收入累积起来，然后在下个月月初确定你的最终收入，将其计入帐号余额并显示在付款页中。</p><p>如果你的余额超出付款最低限额，且你没有设置暂停付款状态，Google Adsense 会在<strong>该月的 21 日至 26 日</strong>为你发放付款。</p><p>请注意，你收到付款的确切时间取决于你所在的时区、21 日是否为周末或节假日以及你选择的付款方式。</p><p><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1680831939815.png" alt="2023 Google Adsense 具体付款时间"></p><h2 id="结算（3-日）"><a href="#结算（3-日）" class="headerlink" title="结算（3 日）"></a>结算（3 日）</h2><p>当月 3 日 Google Adsense 会确定你上个月的估算收入并将其公布到你的付款页上。你会在付款页上看到一个专列项，其中显示了你上月交易的总收入。</p><p>你的付款页还会显示与调整项或费用有关的各种扣减金额。</p><p>请注意，Google Adsense 在确定收入的过程中扣减了你因无效活动而产生的收入，但是你无法看到这些扣减金额的专列项。详细了解<a href="https://support.google.com/adsense/answer/2808531">Google Adsense 无效活动扣减金额</a>。</p><h2 id="付款（20-日）"><a href="#付款（20-日）" class="headerlink" title="付款（20 日）"></a>付款（20 日）</h2><p>如果你需要对付款信息进行更改（包括解除暂停付款状态），请务必在每月的 20 日或之前完成。每月 20 日之后进行的更改要到下一个月的付款周期才会生效。此外，你每月 20 日的总余额必须达到付款最低限额。</p><p>如果你的余额未达到付款最低限额或者你的帐号处于暂停付款状态，那么你在该月不会收到任何付款，且你的余额将会结转到下个月的收入中。</p><h2 id="付款中（21-日-26-日）"><a href="#付款中（21-日-26-日）" class="headerlink" title="付款中（21 日 - 26 日）"></a>付款中（21 日 - 26 日）</h2><p>每月 21 日至 26 日，付款页上会显示一个“正在付款”专列项，表示 Google Adsense 已处理收入并将其支付给你的银行机构。当这条专列项更新为“付款已发出”时，即表示 Google Adsense 银行已同意支付这笔款项，并已发放进行处理。</p><div class="note warning modern"><p>如果 21 日是周末或节假日，那么付款将在该月 21 日之后第一个工作日发放。</p></div><h2 id="5-个工作日"><a href="#5-个工作日" class="headerlink" title="5 个工作日"></a>5 个工作日</h2><p>如下图的邮件，发放付款后，你最晚会在 5 个工作日内收到付款。如果月底之前你仍未收到付款，请与你的银行机构联系。</p><p><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1682230887140.png" alt=""></p><div class="note warning modern"><p>电汇付款可能需要 15 个工作日的时间才能汇入你的账户。电汇到达你银行账户所需的具体时间取决于你账户所在的银行机构。</p></div>]]></content:encoded>
       
       
       <category domain="https://youngjuning.js.org/categories/Google/">Google</category>
