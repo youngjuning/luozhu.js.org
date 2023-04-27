@@ -9,14 +9,14 @@
     <atom:link href="https://youngjuning.js.org/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>洛竹的个人博客，记录分享美好生活、学习笔记、工作经验、编程开发技巧、加密投研、金融知识、联盟营销和跨境电商，总之在洛竹的博客你会发现了一个兴趣广泛且爱折腾的程序员。</description>
-    <pubDate>Thu, 27 Apr 2023 04:18:44 GMT</pubDate>
+    <pubDate>Thu, 27 Apr 2023 05:11:13 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>React Native 引入第三方 Android SDK</title>
-      <link>https://youngjuning.js.org/0f892075942d/</link>
-      <guid>https://youngjuning.js.org/0f892075942d/</guid>
-      <pubDate>Thu, 27 Apr 2023 04:18:44 GMT</pubDate>
+      <link>https://youngjuning.js.org/f7199a4eec81/</link>
+      <guid>https://youngjuning.js.org/f7199a4eec81/</guid>
+      <pubDate>Thu, 27 Apr 2023 05:11:13 GMT</pubDate>
       
       <description>在 React Native 开发中，如果一个原生 SDK 没有适配 React Native 的插件，原则上我们不推荐你使用。但是万不得已的情况下，我们有办法吗？答案是肯定的。步骤大致分为集成 SDK、编写桥接代码。知难行易，本文就是顺着这个思路来解决让前端工程师脑壳疼的集成第三方 SDK 并编写桥接代码的问题。</description>
       
@@ -35,7 +35,38 @@
       <category domain="https://youngjuning.js.org/tags/Android-SDK/">Android SDK</category>
       
       
-      <comments>https://youngjuning.js.org/0f892075942d/#disqus_thread</comments>
+      <comments>https://youngjuning.js.org/f7199a4eec81/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2023 Google Adsense 账户注册教程</title>
+      <link>https://youngjuning.js.org/5c6d54a112a6/</link>
+      <guid>https://youngjuning.js.org/5c6d54a112a6/</guid>
+      <pubDate>Thu, 27 Apr 2023 04:36:47 GMT</pubDate>
+      
+      <description>Google Adsense 是一个由 Google 公司设置的广告计划，会员可以利用 Youtube 流量和 Blogspot 功能置入广告服务，以赚取佣金。会员可分得搜索广告收益的51%、内容广告收益的68%。本文将介绍如何注册 Google Adsense 账户。</description>
+      
+      
+      
+      <content:encoded><![CDATA[<p><ins class="adsbygoogle" style="display:block; text-align:center;"  data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7962287588031867" data-ad-slot="2542544532"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({});</script></p><p>Google Adsense 是一个由 Google 公司设置的广告计划，会员可以利用 Youtube 流量和 Blogspot 功能置入广告服务，以赚取佣金。会员可分得搜索广告收益的 51%、内容广告收益的 68%。本文将介绍如何注册 Google Adsense 账户。</p><h2 id="前提"><a href="#前提" class="headerlink" title="前提"></a>前提</h2><ul><li>一个可以访问 Google 的代理，你可以在 <a href="https://youngjuning.js.org/vpn/">科学上网工具</a> 中选择一款</li><li>一个 Google 账号，可以参考 <a href="https://youngjuning.js.org/382c92b68823/">2023 大陆人如何成功创建 Google 账户</a> 进行注册。</li></ul><h2 id="扬帆启航"><a href="#扬帆启航" class="headerlink" title="扬帆启航"></a>扬帆启航</h2><p>当你决定做一件事，就已经成功了一半，现在就让我们从点击 <a href="https://adsense.google.com/adsense/signup/create?referer=https://adsense.google.com/start/&amp;sac=true&amp;pli=1&amp;authuser=0">Google AdSense 注册</a> 开始内容变现之路吧。</p><p><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1682570658242.png" alt="Google AdSense 注册"></p><ul><li>您的网站：如果没有可以先不填写</li><li>让 AdSense 发挥更大作用：可选可不选</li><li>您的收款地址所在的国家/地区：中国大陆可以设置免税，就选中国大陆</li><li>我们的条款及条件：勾选</li></ul><p>点击确认之后，就会进入到控制台：</p><p><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1682571240158.png" alt="Google AdSense 注册"></p><h2 id="填写客户信息"><a href="#填写客户信息" class="headerlink" title="填写客户信息"></a>填写客户信息</h2><div class="note primary modern"><p>注意：这里的信息涉及以后得收款，一定要要仔细看下面的步骤，否则可能影响收款。</p></div><p>点击上一步的“请输入信息”卡片，进入到填写客户信息页面：</p><p><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1682571783990.png" alt="Google AdSense 注册"></p><ul><li>账号类型：个人</li><li>姓名和地址：这里就填写真实的就可以，要注意的是一定要 <strong>在地址第 1 行或者地址第 2 行 中备注上电话</strong>，因为账号收入达到 5 美金之后 Google 就会给你寄一个用于验证身份的 PIN 码，由于是通过国际平信的方式发出，所以不会有电话，而你备注在地址里，邮递员就可以看到了。</li></ul><p>点击确认之后返回首页看到成功的提示就可以了。</p><p><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1682572039101.png" alt="Google AdSense 注册"></p><p>下一篇我们会讲解如何搭建一个博客，以及如何将博客接入 Google Adsense。</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>内容变现是一个需要漫长积累的事情，你可能会在这个过程中遇到很多困难，但是只要你坚持下去，就一定会成功的。</p>]]></content:encoded>
+      
+      
+      <category domain="https://youngjuning.js.org/categories/Google/">Google</category>
+      
+      <category domain="https://youngjuning.js.org/categories/Google/Adsense/">Adsense</category>
+      
+      
+      <category domain="https://youngjuning.js.org/tags/%E5%8D%9A%E5%AE%A2%E5%8F%98%E7%8E%B0/">博客变现</category>
+      
+      <category domain="https://youngjuning.js.org/tags/Adsense/">Adsense</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E5%86%85%E5%AE%B9%E5%8F%98%E7%8E%B0/">内容变现</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E8%B4%A6%E5%8F%B7%E6%B3%A8%E5%86%8C/">账号注册</category>
+      
+      
+      <comments>https://youngjuning.js.org/5c6d54a112a6/#disqus_thread</comments>
       
     </item>
     
@@ -635,11 +666,11 @@
       <category domain="https://youngjuning.js.org/categories/Google/Adsense/">Adsense</category>
       
       
+      <category domain="https://youngjuning.js.org/tags/Adsense/">Adsense</category>
+      
       <category domain="https://youngjuning.js.org/tags/Google-Adsense/">Google Adsense</category>
       
       <category domain="https://youngjuning.js.org/tags/Google/">Google</category>
-      
-      <category domain="https://youngjuning.js.org/tags/Adsense/">Adsense</category>
       
       <category domain="https://youngjuning.js.org/tags/Google-Adsense-%E4%BB%98%E6%AC%BE%E6%96%B9%E5%BC%8F/">Google Adsense 付款方式</category>
       
