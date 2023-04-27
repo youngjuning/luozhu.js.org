@@ -9,14 +9,14 @@
     <atom:link href="https://youngjuning.js.org/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>洛竹的个人博客，记录分享美好生活、学习笔记、工作经验、编程开发技巧、加密投研、金融知识、联盟营销和跨境电商，总之在洛竹的博客你会发现了一个兴趣广泛且爱折腾的程序员。</description>
-    <pubDate>Thu, 27 Apr 2023 02:26:12 GMT</pubDate>
+    <pubDate>Thu, 27 Apr 2023 04:18:44 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>React Native 引入第三方 Android SDK</title>
-      <link>https://youngjuning.js.org/7501b16bfc5c/</link>
-      <guid>https://youngjuning.js.org/7501b16bfc5c/</guid>
-      <pubDate>Thu, 27 Apr 2023 02:26:12 GMT</pubDate>
+      <link>https://youngjuning.js.org/0f892075942d/</link>
+      <guid>https://youngjuning.js.org/0f892075942d/</guid>
+      <pubDate>Thu, 27 Apr 2023 04:18:44 GMT</pubDate>
       
       <description>在 React Native 开发中，如果一个原生 SDK 没有适配 React Native 的插件，原则上我们不推荐你使用。但是万不得已的情况下，我们有办法吗？答案是肯定的。步骤大致分为集成 SDK、编写桥接代码。知难行易，本文就是顺着这个思路来解决让前端工程师脑壳疼的集成第三方 SDK 并编写桥接代码的问题。</description>
       
@@ -35,7 +35,40 @@
       <category domain="https://youngjuning.js.org/tags/Android-SDK/">Android SDK</category>
       
       
-      <comments>https://youngjuning.js.org/7501b16bfc5c/#disqus_thread</comments>
+      <comments>https://youngjuning.js.org/0f892075942d/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>微信 oAuth 网页授权流程</title>
+      <link>https://youngjuning.js.org/f6ae9b237db3/</link>
+      <guid>https://youngjuning.js.org/f6ae9b237db3/</guid>
+      <pubDate>Thu, 27 Apr 2023 03:02:56 GMT</pubDate>
+      
+      <description>本文讲述了如果用户在微信客户端中访问第三方网页，公众号可以通过微信网页授权机制，来获取用户基本信息，进而实现业务逻辑。</description>
+      
+      
+      
+      <content:encoded><![CDATA[<p><ins class="adsbygoogle" style="display:block; text-align:center;"  data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7962287588031867" data-ad-slot="2542544532"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({});</script></p><p>如果用户在微信客户端中访问第三方网页，公众号可以通过微信网页授权机制，来获取用户基本信息，进而实现业务逻辑。</p><h2 id="网页授权回调域名"><a href="#网页授权回调域名" class="headerlink" title="网页授权回调域名"></a>网页授权回调域名</h2><p>1、在微信公众号请求用户网页授权之前，开发者需要先到公众平台官网中的 <code>开发</code> → <code>接口权限</code> → <code>网页服务</code> → <code>网页授权</code> - <code>网页授权获取用户基本信息</code> 的配置选项中，修改授权回调域名。请注意，这里填写的是域名（是一个字符串），而不是 URL，因此请勿加 <code>http://</code> 等协议头。</p><div class="note info modern"><p>注意：通过 <code>设置</code> → <code>公众号设置</code> → <code>功能设置</code> → <code>网页授权域名</code></p></div><p>2、授权回调域名配置规范为全域名，比如需要网页授权的域名为：<code>www.qq.com</code>，配置以后此域名下面的页面 <code>http://www.qq.com/music.html</code>、<code>http://www.qq.com/login.html</code> 都可以进行 OAuth2.0 鉴权。但 <code>http://pay.qq.com</code>、<code>http://music.qq.com</code>、<code>http://qq.com</code> 无法进行 OAuth2.0 鉴权</p><p>3、如果公众号登录授权给了第三方开发者来进行管理，则不必做任何设置，由第三方代替公众号实现网页授权即可</p><h2 id="业务域名"><a href="#业务域名" class="headerlink" title="业务域名"></a>业务域名</h2><p>设置业务域名后，在微信内访问该域名下页面时，不会被重新排版。用户在该域名上进行输入时，不出现下图所示的安全提示。<br>注意事项：</p><p>1、可填写三个域名或路径（例：<code>wx.qq.com</code> 或 <code>wx.qq.com/mp</code>），需使用字母、数字及 <code>-</code> 的组合，不支持 IP 地址、端口号及短链域名。</p><p>2、填写的域名须通过ICP备案的验证。</p><p>3、将文件 <code>MP_verify_naGVGuiJ6KOsOwCA.txt</code>（点击下载）上传至填写域名或路径指向的 web 服务器（或虚拟主机）的目录（若填写域名，将文件放置在域名根目录下，例如 <code>wx.qq.com/MP_verify_naGVGuiJ6KOsOwCA.txt</code>；若填写路径，将文件放置在路径目录下，例如 <code>wx.qq.com/mp/MP_verify_naGVGuiJ6KOsOwCA.txt</code>），并确保可以访问。</p><p>4、一个自然月内最多可修改并保存三次，本月剩余保存次数：3</p>]]></content:encoded>
+      
+      
+      <category domain="https://youngjuning.js.org/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      <category domain="https://youngjuning.js.org/categories/%E5%89%8D%E7%AB%AF/%E5%BE%AE%E4%BF%A1/">微信</category>
+      
+      
+      <category domain="https://youngjuning.js.org/tags/%E5%BE%AE%E4%BF%A1/">微信</category>
+      
+      <category domain="https://youngjuning.js.org/tags/oAuth/">oAuth</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E7%BD%91%E9%A1%B5%E6%8E%88%E6%9D%83/">网页授权</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E5%BE%AE%E4%BF%A1%E7%BD%91%E9%A1%B5%E6%8E%88%E6%9D%83/">微信网页授权</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7/">微信公众号</category>
+      
+      
+      <comments>https://youngjuning.js.org/f6ae9b237db3/#disqus_thread</comments>
       
     </item>
     
