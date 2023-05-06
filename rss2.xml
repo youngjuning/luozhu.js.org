@@ -9,8 +9,37 @@
     <atom:link href="https://youngjuning.js.org/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>洛竹的个人博客，记录分享美好生活、学习笔记、工作经验、编程开发技巧、加密投研、金融知识、联盟营销和跨境电商，总之在洛竹的博客你会发现了一个兴趣广泛且爱折腾的程序员。</description>
-    <pubDate>Sat, 06 May 2023 05:30:11 GMT</pubDate>
+    <pubDate>Sat, 06 May 2023 09:14:26 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>如何填写 Google Adsense 税务信息可以免税 | W-8BEN</title>
+      <link>https://youngjuning.js.org/66ec8687cd46/</link>
+      <guid>https://youngjuning.js.org/66ec8687cd46/</guid>
+      <pubDate>Sat, 06 May 2023 11:47:53 GMT</pubDate>
+      
+      <description>本文讲解了如何填写 Google Adsense 税务信息可以免税，以及如何填写 W-8 BEN 表格。</description>
+      
+      
+      
+      <content:encoded><![CDATA[<p><ins class="adsbygoogle" style="display:block; text-align:center;"  data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7962287588031867" data-ad-slot="2542544532"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({});</script></p><p>本文讲解了如何填写 Google Adsense 税务信息可以免税，以及如何填写 W-8 BEN 表格。</p><h2 id="开始填表"><a href="#开始填表" class="headerlink" title="开始填表"></a>开始填表</h2><p>以此点击 <code>收款</code> -&gt; <code>收款信息</code> -&gt; <code>美国税务信息</code> -&gt; <code>开始填表</code></p><p><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1683361664395.png" alt="Google Adsense 税务信息"><br><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1683361691097.png" alt="Google Adsense 税务信息"><br><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1683361711328.png" alt="Google Adsense 税务信息"></p><h2 id="基本信息"><a href="#基本信息" class="headerlink" title="基本信息"></a>基本信息</h2><ol><li>您使用的是哪种类型的账号？：个人</li><li>您是否是美国公民或居民？：否</li><li>请选择 W-8BEN：选择</li></ol><p><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1683361782277.png" alt="Google Adsense 税务信息"></p><h2 id="W-8BEN-表单"><a href="#W-8BEN-表单" class="headerlink" title="W-8BEN 表单"></a>W-8BEN 表单</h2><p>按照下列图中的信息填写即可，需要注意的有：</p><ol><li>个人姓名填写拼音大写，比如 <code>LI MEI</code></li><li>外国的纳税人税号填写身份证号</li><li>报税选择无纸化</li></ol><p><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1683362043300.png" alt="Google Adsense 税务信息"><br><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1683362207801.png" alt="Google Adsense 税务信息"><br><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1683362383338.png" alt="Google Adsense 税务信息"><br><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1683362398811.png" alt="Google Adsense 税务信息"><br><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1683362490608.png" alt="Google Adsense 税务信息"><br><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1683362505420.png" alt="Google Adsense 税务信息"></p><h2 id="被接受通知"><a href="#被接受通知" class="headerlink" title="被接受通知"></a>被接受通知</h2><p>如下图，显示“您的税务信息已被接受”，说明设置成功了。</p><p><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1683363578326.png" alt="Google Adsense 税务信息"></p>]]></content:encoded>
+      
+      
+      <category domain="https://youngjuning.js.org/categories/Google/">Google</category>
+      
+      <category domain="https://youngjuning.js.org/categories/Google/Adsense/">Adsense</category>
+      
+      
+      <category domain="https://youngjuning.js.org/tags/Adsense/">Adsense</category>
+      
+      <category domain="https://youngjuning.js.org/tags/Google/">Google</category>
+      
+      <category domain="https://youngjuning.js.org/tags/W-8BEN/">W-8BEN</category>
+      
+      
+      <comments>https://youngjuning.js.org/66ec8687cd46/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>2023 Google Adsense 中国大陆账户注册教程</title>
