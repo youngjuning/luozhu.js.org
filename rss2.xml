@@ -9,7 +9,7 @@
     <atom:link href="https://youngjuning.js.org/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>洛竹的个人博客，记录分享美好生活、学习笔记、工作经验、编程开发技巧、加密投研、金融知识、联盟营销和跨境电商，总之在洛竹的博客你会发现了一个兴趣广泛且爱折腾的程序员。</description>
-    <pubDate>Mon, 08 May 2023 03:38:17 GMT</pubDate>
+    <pubDate>Mon, 08 May 2023 05:45:29 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -581,11 +581,11 @@
       
       <category domain="https://youngjuning.js.org/tags/%E6%B4%9B%E7%AB%B9%E7%BF%BB%E8%AF%91%E8%AE%A1%E5%88%92/">洛竹翻译计划</category>
       
-      <category domain="https://youngjuning.js.org/tags/%E6%8E%98%E9%87%91%E7%BF%BB%E8%AF%91%E8%AE%A1%E5%88%92/">掘金翻译计划</category>
-      
       <category domain="https://youngjuning.js.org/tags/%E5%BE%AE%E8%BD%AF/">微软</category>
       
       <category domain="https://youngjuning.js.org/tags/%E8%B0%B7%E6%AD%8C/">谷歌</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E6%8E%98%E9%87%91%E7%BF%BB%E8%AF%91%E8%AE%A1%E5%88%92/">掘金翻译计划</category>
       
       
       <comments>https://youngjuning.js.org/70420a4b1330/#disqus_thread</comments>
