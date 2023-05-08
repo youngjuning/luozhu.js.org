@@ -9,8 +9,70 @@
     <atom:link href="https://youngjuning.js.org/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>洛竹的个人博客，记录分享美好生活、学习笔记、工作经验、编程开发技巧、加密投研、金融知识、联盟营销和跨境电商，总之在洛竹的博客你会发现了一个兴趣广泛且爱折腾的程序员。</description>
-    <pubDate>Mon, 08 May 2023 10:10:25 GMT</pubDate>
+    <pubDate>Mon, 08 May 2023 10:26:33 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>如何设置 React Typescript 项目绝对路径引用别名</title>
+      <link>https://youngjuning.js.org/94e8b5cabf01/</link>
+      <guid>https://youngjuning.js.org/94e8b5cabf01/</guid>
+      <pubDate>Mon, 08 May 2023 10:18:10 GMT</pubDate>
+      
+      <description>本文讲解了如何设置 React Typescript 项目绝对路径引用别名</description>
+      
+      
+      
+      <content:encoded><![CDATA[<p>本文讲解了如何设置 React Typescript 项目绝对路径引用别名</p><p><ins class="adsbygoogle" style="display:block; text-align:center;"  data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7962287588031867" data-ad-slot="2542544532"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({});</script></p><h2 id="Typescript"><a href="#Typescript" class="headerlink" title="Typescript"></a>Typescript</h2><p>1、创建 path.tsconfig.json 配置文件</p><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="punctuation">&#123;</span></span><br><span class="line">  <span class="attr">&quot;compilerOptions&quot;</span><span class="punctuation">:</span> <span class="punctuation">&#123;</span></span><br><span class="line">    <span class="attr">&quot;baseUrl&quot;</span><span class="punctuation">:</span> <span class="string">&quot;./&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;paths&quot;</span><span class="punctuation">:</span> <span class="punctuation">&#123;</span></span><br><span class="line">      <span class="attr">&quot;@/*&quot;</span><span class="punctuation">:</span> <span class="punctuation">[</span><span class="string">&quot;src/*&quot;</span><span class="punctuation">]</span></span><br><span class="line">    <span class="punctuation">&#125;</span></span><br><span class="line">  <span class="punctuation">&#125;</span></span><br><span class="line"><span class="punctuation">&#125;</span></span><br></pre></td></tr></table></figure><p>2、在 <code>tsconfig.json</code> 中导入该配置文件，让配置生效</p><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="punctuation">&#123;</span></span><br><span class="line">  <span class="comment">// 导入配置文件</span></span><br><span class="line">  <span class="attr">&quot;extends&quot;</span><span class="punctuation">:</span> <span class="string">&quot;./path.tsconfig.json&quot;</span><span class="punctuation">,</span></span><br><span class="line"><span class="punctuation">&#125;</span></span><br></pre></td></tr></table></figure><p>配置完这一步，vscode 也会有目录提示了</p><h2 id="Eslint"><a href="#Eslint" class="headerlink" title="Eslint"></a>Eslint</h2><p>配置 <code>@typescript-eslint/parser</code> 并在 <code>parserOptions</code> 中指定 <code>project</code> 选项，以便在 Eslint 中使用 TypeScript 的类型检查。</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable language_">module</span>.<span class="property">exports</span> = &#123;</span><br><span class="line">  <span class="attr">parser</span>: <span class="string">&#x27;@typescript-eslint/parser&#x27;</span>,</span><br><span class="line">  <span class="attr">parserOptions</span>: &#123;</span><br><span class="line">    <span class="attr">project</span>: [<span class="string">&#x27;./tsconfig.json&#x27;</span>], <span class="comment">// Specify it only for TypeScript files</span></span><br><span class="line">  &#125;,</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content:encoded>
+      
+      
+      <category domain="https://youngjuning.js.org/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      <category domain="https://youngjuning.js.org/categories/%E5%89%8D%E7%AB%AF/React/">React</category>
+      
+      
+      <category domain="https://youngjuning.js.org/tags/React/">React</category>
+      
+      <category domain="https://youngjuning.js.org/tags/TypeScript/">TypeScript</category>
+      
+      <category domain="https://youngjuning.js.org/tags/compilerOptions/">compilerOptions</category>
+      
+      
+      <comments>https://youngjuning.js.org/94e8b5cabf01/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>如何在 React Native 中声明全局类型</title>
+      <link>https://youngjuning.js.org/d46ebc530d48/</link>
+      <guid>https://youngjuning.js.org/d46ebc530d48/</guid>
+      <pubDate>Mon, 08 May 2023 10:10:31 GMT</pubDate>
+      
+      <description>本文讲解了如何在 React Native 中声明全局类型</description>
+      
+      
+      
+      <content:encoded><![CDATA[<p><ins class="adsbygoogle" style="display:block; text-align:center;"  data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7962287588031867" data-ad-slot="2542544532"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({});</script></p><p>要在 TypeScript 中声明全局类型：</p><ol><li>创建一个 <code>global.d.ts</code> 文件并在全局命名空间中声明类型。</li><li>添加需要全局访问的类型或接口。</li><li>使用 <code>export &#123;&#125;</code> 使文件成为模块。</li></ol><p>在项目的 src 目录中，创建一个包含以下 <code>global.d.ts</code> 文件的 <code>types</code> 目录。</p><figure class="highlight ts"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">export</span> &#123;&#125;;</span><br><span class="line"></span><br><span class="line"><span class="keyword">declare</span> <span class="variable language_">global</span> &#123;</span><br><span class="line">  <span class="comment">/**</span></span><br><span class="line"><span class="comment">   * 现在声明进入全局命名空间的类型，或者增加全局命名空间中的现有声明。</span></span><br><span class="line"><span class="comment">   */</span></span><br><span class="line">  <span class="keyword">interface</span> <span class="title class_">Employee</span> &#123;</span><br><span class="line">    <span class="attr">id</span>: <span class="built_in">number</span>;</span><br><span class="line">    <span class="attr">name</span>: <span class="built_in">string</span>;</span><br><span class="line">    <span class="attr">salary</span>: <span class="built_in">number</span>;</span><br><span class="line">  &#125;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">type</span> <span class="title class_">Person</span> = &#123;</span><br><span class="line">    <span class="attr">name</span>: <span class="built_in">string</span>;</span><br><span class="line">    <span class="attr">age</span>: <span class="built_in">number</span>;</span><br><span class="line">  &#125;;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>上面的例子展示了如何创建一个修改全局命名空间的模块。 我们创建了一个全局可访问的 Employee 和 Person 类型。</p><p>现在我可以访问我项目中的类型，而无需导入它们。</p><figure class="highlight ts"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">const</span> <span class="attr">emp</span>: <span class="title class_">Employee</span> = &#123;</span><br><span class="line">  <span class="attr">id</span>: <span class="number">1</span>,</span><br><span class="line">  <span class="attr">name</span>: <span class="string">&#x27;James&#x27;</span>,</span><br><span class="line">  <span class="attr">salary</span>: <span class="number">100</span>,</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(emp);</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> <span class="attr">person</span>: <span class="title class_">Person</span> = &#123;</span><br><span class="line">  <span class="attr">name</span>: <span class="string">&#x27;Tom&#x27;</span>,</span><br><span class="line">  <span class="attr">age</span>: <span class="number">30</span>,</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(person);</span><br></pre></td></tr></table></figure><p>如果我们在 IDE 中遇到错误，请尝试将类型目录的路径添加到 <code>tsconfig.json</code> 文件中。</p><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="punctuation">&#123;</span></span><br><span class="line">  <span class="attr">&quot;compilerOptions&quot;</span><span class="punctuation">:</span> <span class="punctuation">&#123;</span></span><br><span class="line">    <span class="attr">&quot;typeRoots&quot;</span><span class="punctuation">:</span> <span class="punctuation">[</span><span class="string">&quot;./types&quot;</span><span class="punctuation">,</span> <span class="string">&quot;./node_modules/@types&quot;</span><span class="punctuation">]</span></span><br><span class="line">  <span class="punctuation">&#125;</span></span><br><span class="line"><span class="punctuation">&#125;</span></span><br></pre></td></tr></table></figure><p>我们在 <code>global.d.ts</code> 文件中使用 <code>export &#123;&#125;</code> 行将其标记为外部模块。 模块是包含至少 1 个导入或导出语句的文件。 我们必须这样做才能扩大全局范围。</p>]]></content:encoded>
+      
+      
+      <category domain="https://youngjuning.js.org/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      <category domain="https://youngjuning.js.org/categories/%E5%89%8D%E7%AB%AF/React-Native/">React Native</category>
+      
+      
+      <category domain="https://youngjuning.js.org/tags/React-Native/">React Native</category>
+      
+      <category domain="https://youngjuning.js.org/tags/TypeScript/">TypeScript</category>
+      
+      <category domain="https://youngjuning.js.org/tags/export/">export</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E5%85%A8%E5%B1%80%E7%B1%BB%E5%9E%8B/">全局类型</category>
+      
+      <category domain="https://youngjuning.js.org/tags/global/">global</category>
+      
+      
+      <comments>https://youngjuning.js.org/d46ebc530d48/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Antd &lt;DatePicker /&gt; date.clone is not a function</title>
