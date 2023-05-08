@@ -9,8 +9,37 @@
     <atom:link href="https://youngjuning.js.org/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>洛竹的个人博客，记录分享美好生活、学习笔记、工作经验、编程开发技巧、加密投研、金融知识、联盟营销和跨境电商，总之在洛竹的博客你会发现了一个兴趣广泛且爱折腾的程序员。</description>
-    <pubDate>Mon, 08 May 2023 05:45:29 GMT</pubDate>
+    <pubDate>Mon, 08 May 2023 07:52:38 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Antd &lt;DatePicker /&gt; date.clone is not a function</title>
+      <link>https://youngjuning.js.org/f6ee9e277c41/</link>
+      <guid>https://youngjuning.js.org/f6ee9e277c41/</guid>
+      <pubDate>Mon, 08 May 2023 07:36:04 GMT</pubDate>
+      
+      <description>本文介绍了 Antd &lt;DatePicker /&gt; 组件报 date.clone is not a function 错误的解决方法</description>
+      
+      
+      
+      <content:encoded><![CDATA[<p>本文介绍了 Antd <DatePicker /> 组件报 date.clone is not a function 错误的解决方法</p><p><ins class="adsbygoogle" style="display:block; text-align:center;"  data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7962287588031867" data-ad-slot="2542544532"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({});</script></p><p>当我们给 Antd DatePicker 组件设置默认值或通过 <code>form.setFieldsValue</code> 设置值时，可能会遇到如下错误：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;DatePicker /&gt; date.clone is not a <span class="keyword">function</span></span><br></pre></td></tr></table></figure><p>这是因为 Antd DatePicker 组件的默认值必须是 moment 对象，而我们设置的值可能是字符串或者 Date 对象，所以需要将其转换为 moment 对象：</p><p><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1683531634144.png" alt="&lt;DatePicker /&gt; date.clone is not a function"></p>]]></content:encoded>
+      
+      
+      <category domain="https://youngjuning.js.org/categories/issues/">issues</category>
+      
+      <category domain="https://youngjuning.js.org/categories/issues/antd/">antd</category>
+      
+      
+      <category domain="https://youngjuning.js.org/tags/antd/">antd</category>
+      
+      <category domain="https://youngjuning.js.org/tags/datepicker/">datepicker</category>
+      
+      <category domain="https://youngjuning.js.org/tags/date-clone/">date.clone</category>
+      
+      
+      <comments>https://youngjuning.js.org/f6ee9e277c41/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>如何填写 Google Adsense 税务信息可以免税 | W-8BEN</title>
@@ -581,11 +610,11 @@
       
       <category domain="https://youngjuning.js.org/tags/%E6%B4%9B%E7%AB%B9%E7%BF%BB%E8%AF%91%E8%AE%A1%E5%88%92/">洛竹翻译计划</category>
       
+      <category domain="https://youngjuning.js.org/tags/%E6%8E%98%E9%87%91%E7%BF%BB%E8%AF%91%E8%AE%A1%E5%88%92/">掘金翻译计划</category>
+      
       <category domain="https://youngjuning.js.org/tags/%E5%BE%AE%E8%BD%AF/">微软</category>
       
       <category domain="https://youngjuning.js.org/tags/%E8%B0%B7%E6%AD%8C/">谷歌</category>
-      
-      <category domain="https://youngjuning.js.org/tags/%E6%8E%98%E9%87%91%E7%BF%BB%E8%AF%91%E8%AE%A1%E5%88%92/">掘金翻译计划</category>
       
       
       <comments>https://youngjuning.js.org/70420a4b1330/#disqus_thread</comments>

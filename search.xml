@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>Antd &lt;DatePicker /&gt; date.clone is not a function</title>
+      <link href="/f6ee9e277c41/"/>
+      <url>/f6ee9e277c41/</url>
+      
+        <content type="html"><![CDATA[<p>本文介绍了 Antd <DatePicker /> 组件报 date.clone is not a function 错误的解决方法</p><p><ins class="adsbygoogle" style="display:block; text-align:center;"  data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7962287588031867" data-ad-slot="2542544532"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({});</script></p><p>当我们给 Antd DatePicker 组件设置默认值或通过 <code>form.setFieldsValue</code> 设置值时，可能会遇到如下错误：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;DatePicker /&gt; date.clone is not a <span class="keyword">function</span></span><br></pre></td></tr></table></figure><p>这是因为 Antd DatePicker 组件的默认值必须是 moment 对象，而我们设置的值可能是字符串或者 Date 对象，所以需要将其转换为 moment 对象：</p><p><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1683531634144.png" alt="&lt;DatePicker /&gt; date.clone is not a function"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> issues </category>
+          
+          <category> antd </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> antd </tag>
+            
+            <tag> datepicker </tag>
+            
+            <tag> date.clone </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>如何填写 Google Adsense 税务信息可以免税 | W-8BEN</title>
       <link href="/66ec8687cd46/"/>
       <url>/66ec8687cd46/</url>
@@ -607,11 +638,11 @@
             
             <tag> 洛竹翻译计划 </tag>
             
+            <tag> 掘金翻译计划 </tag>
+            
             <tag> 微软 </tag>
             
             <tag> 谷歌 </tag>
-            
-            <tag> 掘金翻译计划 </tag>
             
         </tags>
       
