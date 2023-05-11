@@ -9,8 +9,54 @@
     <atom:link href="https://youngjuning.js.org/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>洛竹的个人博客，记录分享美好生活、学习笔记、工作经验、编程开发技巧、加密投研、金融知识、联盟营销和跨境电商，总之在洛竹的博客你会发现了一个兴趣广泛且爱折腾的程序员。</description>
-    <pubDate>Thu, 11 May 2023 10:11:26 GMT</pubDate>
+    <pubDate>Thu, 11 May 2023 11:40:39 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>云桌面是什么？2023 有哪些可以免费试用的云桌面服务？</title>
+      <link>https://youngjuning.js.org/14e798bd7cdc/</link>
+      <guid>https://youngjuning.js.org/14e798bd7cdc/</guid>
+      <pubDate>Thu, 11 May 2023 10:57:16 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;什么是云桌面？&quot;&gt;&lt;a href=&quot;#什么是云桌面？&quot; class=&quot;headerlink&quot; title=&quot;什么是云桌面？&quot;&gt;&lt;/a&gt;什么是云桌面？&lt;/h2&gt;&lt;p&gt;云桌面是一种基于云计算技术的虚拟桌面解决方案，用户可以通过网络访问云端的桌面环境，实现随时随地、安全</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="什么是云桌面？"><a href="#什么是云桌面？" class="headerlink" title="什么是云桌面？"></a>什么是云桌面？</h2><p>云桌面是一种基于云计算技术的虚拟桌面解决方案，用户可以通过网络访问云端的桌面环境，实现随时随地、安全便捷地使用桌面应用程序和数据。</p><h2 id="云桌面有哪些优势？"><a href="#云桌面有哪些优势？" class="headerlink" title="云桌面有哪些优势？"></a>云桌面有哪些优势？</h2><p>云桌面作为一种新兴的云计算服务，具有以下几个优势：</p><ol><li>灵活性：云桌面可以随时随地通过网络访问，用户不必局限于特定的设备或地点，可以在不同设备上使用相同的桌面环境。</li><li>安全性：云桌面可以在云端进行管理和维护，用户无需担心数据泄露或设备安全问题。</li><li>成本效益：云桌面可以节省企业大量的硬件和软件投入，同时也可以降低维护和升级的成本。</li><li>高可用性：云桌面可以通过负载均衡和容错技术保证高可用性，避免单点故障导致的服务中断。</li></ol><p>总之，云桌面是一种高效、安全、灵活、易用的云计算服务，逐渐被越来越多的企业和个人所采用。</p><h2 id="云桌面需要什么样的硬件配置？"><a href="#云桌面需要什么样的硬件配置？" class="headerlink" title="云桌面需要什么样的硬件配置？"></a>云桌面需要什么样的硬件配置？</h2><p>云桌面和传统本地桌面的区别主要在于数据存储和处理位置不同。传统本地桌面的数据存储和处理都在本地计算机上进行，而云桌面的数据存储和处理则在云端服务器上进行。这意味着使用云桌面可以实现更高的灵活性和可扩展性，同时也可以更好地保护数据安全。另外，云桌面可以随时随地通过网络访问，而传统本地桌面则需要用户在本地计算机前操作。</p><p>一般来说，云桌面的硬件配置要求并不高，只需要具备以下基本配置即可：</p><ul><li>CPU：双核或以上</li><li>内存：4GB或以上</li><li>存储：50GB或以上</li></ul><p>此外，还需要具备稳定的网络环境以保证云桌面的流畅运行。当然，如果需要运行更加复杂的应用程序或者进行更加高强度的计算任务，那么相应的硬件配置也需要相应提高。</p><h2 id="云桌面如何保证数据安全性？"><a href="#云桌面如何保证数据安全性？" class="headerlink" title="云桌面如何保证数据安全性？"></a>云桌面如何保证数据安全性？</h2><p>云桌面可以通过以下方式保证数据安全性：</p><ol><li>数据加密：云桌面可以对数据进行加密，确保数据在传输和存储时不会被窃取或篡改。</li><li>访问控制：云桌面可以设置访问权限，只有授权的用户才能访问数据，从而确保数据不会被非授权人员访问。</li><li>安全备份：云桌面可以定期备份数据，以便在数据丢失或损坏时恢复数据。</li><li>安全审计：云桌面可以记录用户的操作日志，以便在发生安全事件时进行调查和追踪。</li><li>安全防护：云桌面可以部署安全防护措施，如防火墙、反病毒软件等，以保护数据不受攻击和病毒感染。</li></ol><h2 id="可以免费试用的云桌面服务"><a href="#可以免费试用的云桌面服务" class="headerlink" title="可以免费试用的云桌面服务"></a>可以免费试用的云桌面服务</h2><ul><li><a href="https://adfoc.us/81142995604187">阿里云无影云桌面</a>：可以快速构建安全、高性能、低成本的企业桌面办公体系。可以免费试用 3 个月。</li><li><a href="https://adfoc.us/81142995605674">Amazon WorkSpaces</a> ：WorkSpaces云电脑虚拟桌面，每月提供长达40小时的组合使用时长，可按月或按小时付费。</li><li><a href="https://adfoc.us/81142995606178">Microsoft Azure 虚拟桌面</a>：常用服务免费提供 12 个月、超过 55 项服务始终免费、USD200 的赠金，请在领取后 30 天内使用</li></ul>]]></content:encoded>
+      
+      
+      <category domain="https://youngjuning.js.org/categories/%E5%B7%A5%E5%85%B7/">工具</category>
+      
+      <category domain="https://youngjuning.js.org/categories/%E8%BF%90%E7%BB%B4/">运维</category>
+      
+      
+      <category domain="https://youngjuning.js.org/tags/%E4%BA%91%E6%A1%8C%E9%9D%A2/">云桌面</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E9%98%BF%E9%87%8C%E4%BA%91/">阿里云</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E8%85%BE%E8%AE%AF%E4%BA%91/">腾讯云</category>
+      
+      <category domain="https://youngjuning.js.org/tags/UCloud/">UCloud</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E4%BA%9A%E9%A9%AC%E9%80%8A%E4%BA%91%E7%A7%91%E6%8A%80/">亚马逊云科技</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E5%BE%AE%E8%BD%AF%E5%AD%A6%E4%B9%A0%E5%B9%B3%E5%8F%B0/">微软学习平台</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E5%B0%8F%E9%85%B7%E4%BA%91%E7%94%B5%E8%84%91/">小酷云电脑</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E6%97%A0%E5%BD%B1%E4%BA%91%E6%A1%8C%E9%9D%A2/">无影云桌面</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E4%BA%91%E6%A1%8C%E9%9D%A2%E6%9C%8D%E5%8A%A1/">云桌面服务</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E4%BA%91%E6%A1%8C%E9%9D%A2%E8%AF%95%E7%94%A8/">云桌面试用</category>
+      
+      
+      <comments>https://youngjuning.js.org/14e798bd7cdc/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>RPM 广告是什么?</title>
@@ -2297,7 +2343,7 @@
     </item>
     
     <item>
-      <title>2023 年最好用的十大跨浏览器测试工具</title>
+      <title>2023 年最好用的两大跨浏览器测试工具</title>
       <link>https://youngjuning.js.org/0e5e9e31e73b/</link>
       <guid>https://youngjuning.js.org/0e5e9e31e73b/</guid>
       <pubDate>Tue, 14 Mar 2023 05:41:49 GMT</pubDate>
@@ -2306,7 +2352,7 @@
       
       
       
-      <content:encoded><![CDATA[<p><ins class="adsbygoogle" style="display:block; text-align:center;"  data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7962287588031867" data-ad-slot="2542544532"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({});</script></p><h1 id="Lambdatest"><a href="#Lambdatest" class="headerlink" title="Lambdatest"></a>Lambdatest</h1><p>Lambdatest 是一种基于云的交叉浏览器测试平台，可以同时在不同操作系统和浏览器上执行自动化和手动测试。该平台支持多种编程语言和集成工具，提供实时屏幕共享和错误日志，以帮助开发人员和测试人员加快产品交付速度和质量。此外，Lambdatest 还提供用户友好的界面和灵活的付费计划，以适应各种规模和类型的项目需求。</p><h2 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h2><ol><li>跨浏览器测试：LambdaTest允许用户在不同的操作系统、浏览器和设备上进行测试。这使得用户可以确保他们的应用程序能够在不同的环境中正常运行。</li><li>实时测试：LambdaTest的实时测试功能允许用户在真实浏览器和实际设备上测试他们的应用程序，而不是使用模拟器或虚拟机。</li><li>自动化测试：LambdaTest集成了多个自动化测试框架，包括Selenium和Appium。这使得用户可以更快速地执行测试和获得更好的覆盖率。</li><li>特性测试：LambdaTest的特性测试功能允许用户手动、自动化地测试Web应用程序的各种特性，例如像登陆、下拉菜单、滚动等方面 。</li><li>并行测试：LambdaTest提供了并行执行测试用例的功能，使用户可以在较短的时间内完成更多的测试。</li><li>Bug 捕获工具：LambdaTest配备了一套强大的Bug记录和管理工具，帮助用户轻松捕获和管理其测试中发现的所有Bug以便追溯，解决问题。</li><li>高级安全功能：LambdaTest提供高级安全功能来保护用户敏感数据和测试结果的安全。它还包括私人网络和VPN，以确保用户的数据得到保护和安全传输。</li></ol><h2 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h2><ul><li>适用于各种浏览器和操作系统：Lambdatest支持超过2000种不同类型的浏览器和操作系统，您可以在任何设备上使用该平台进行测试。</li><li>实施方便：使用Lambdatest进行测试非常容易。只需上传您想要测试的代码和测试脚本，并选择需要测试的配置，Lambdatest将处理其余部分。</li><li>高度安全：Lambdatest采用SSL / TLS协议来保护用户敏感数据，确保最高级别的数据安全性。</li><li>支持自动化测试：您可以使用Lambdatest执行自动化测试，它与各种自动化框架和库兼容。</li><li>提供实时测试环境：Lambdatest提供实时测试环境，让您可以立即查看测试结果。这意味着您可以即时检测到错误并加以纠正，并可从开始就更好地了解应用程序的表现。</li><li>管理测试项目的方便：Lambdatest提供一个简单而直观的用户界面，使您能够轻松管理测试项目。您可以随时查看测试进度并分享测试结果。</li><li>提供竞争力价值：Lambdatest价格合理，为小型企业和初创公司提供了测试功能。</li></ul><h1 id="SauceLabs"><a href="#SauceLabs" class="headerlink" title="SauceLabs"></a>SauceLabs</h1><p>SauceLabs 是一种基于云平台的 Web 和 移动应用自动化测试工具，它提供了一种简单有效的方法来测试 web 应用和移动应用在不同操作系统、浏览器和设备上的表现。SauceLabs 平台可以在不同的环境中执行不同的自动化测试，例如独立脚本的支持、多个浏览器的同时支持等等。在 SauceLabs 中，您只需编写一次自动化脚本即可实现在 iOS、Android、Windows 或 Mac 操作系统上运行的浏览器中进行测试。</p><h2 id="功能-1"><a href="#功能-1" class="headerlink" title="功能"></a>功能</h2><ol><li>Cross Browser 测试：SauceLabs 允许用户同时在多个真实的浏览器和版本中运行测试，确保 Web 应用程序的兼容性。</li><li>Parallel Testing：SauceLabs 的分布式体系结构允许用户并发运行大量测试用例以获得更快的测试结果。</li><li>操作系统覆盖：SauceLabs 支持 Web 和移动应用程序测试中的所有流行操作系统 (OS) 平台。</li><li>设备模拟器和仿真：Sauce Labs 集成了模拟或模拟真实移动设备和桌面浏览器。</li><li>设备暴露：用户可以使用 SauceLabs 的套件将真实的物理 iOS 和 Android 设备连接到测试过程中。</li><li>CI/CD 整合: SauceLabs 与常用的 CI/CD 工具集成，包括 Jenkins、Travis CI、CircleCI 等等。</li><li>Debugging tools：SauceLabs 提供了一组调试工具帮助开发人员诊断问题，如截屏、日志、视频录制等。</li></ol><h2 id="优势-1"><a href="#优势-1" class="headerlink" title="优势"></a>优势</h2><p>SauceLabs 相比其他测试平台，并提供以下优势：</p><ul><li>可扩展性：随着公司团队的扩大，测试需要跟上发展的规模。SauceLabs支持可伸缩的云体系结构，允许以适合各种规模的任何一个团队或需求。</li><li>跨平台：企业对不同平台的支持要求不断增加（Windows、macOS、Linux、iOS、Android，甚至 IoT 设备），而不同的平台走向不同的趋势使得测试任务变得复杂。Sauce Labs 可以在各种浏览器和操作系统平台上执行测试，整合多个软硬件环境。</li><li>时效性：SauceLabs 可以启动无限的浏览器会话，在不需等待时间的情况下，立即在平行板上执行自动化测试，以便追求最短的周期时间（cycle time）。</li><li>成本节约：传统的广泛测试需要先从公司的测试设施或云提供商购买硬件和设备，然后运行测试来修复错误。 SauceLabs 的云测试服务减少了购买，部署，配置以及其相关管理费用。</li><li>安全性：企业级客户通常对代码库拥有完全访问权限，这意味着代码可能受到各种威胁。Sauce Labs 为每个客户专门提供虚拟机，并用于隔离和安全管控原产生的风险，确保数据和安全性。</li><li>运营可见性：Sauce Labs 提供内置的报告，运营数据和自定义仪表板来跟踪测试性能和缺陷趋势，以便全面评估测试资料的质量水平。</li></ul><h1 id="套餐对比"><a href="#套餐对比" class="headerlink" title="套餐对比"></a>套餐对比</h1><p><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1678943419739.png" alt="跨浏览器测试平台套餐对比"></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p><ins class="adsbygoogle" style="display:block; text-align:center;"  data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7962287588031867" data-ad-slot="2542544532"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({});</script></p><h2 id="Lambdatest"><a href="#Lambdatest" class="headerlink" title="Lambdatest"></a>Lambdatest</h2><p>Lambdatest 是一种基于云的交叉浏览器测试平台，可以同时在不同操作系统和浏览器上执行自动化和手动测试。该平台支持多种编程语言和集成工具，提供实时屏幕共享和错误日志，以帮助开发人员和测试人员加快产品交付速度和质量。此外，Lambdatest 还提供用户友好的界面和灵活的付费计划，以适应各种规模和类型的项目需求。</p><h3 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h3><ol><li>跨浏览器测试：LambdaTest允许用户在不同的操作系统、浏览器和设备上进行测试。这使得用户可以确保他们的应用程序能够在不同的环境中正常运行。</li><li>实时测试：LambdaTest的实时测试功能允许用户在真实浏览器和实际设备上测试他们的应用程序，而不是使用模拟器或虚拟机。</li><li>自动化测试：LambdaTest集成了多个自动化测试框架，包括Selenium和Appium。这使得用户可以更快速地执行测试和获得更好的覆盖率。</li><li>特性测试：LambdaTest的特性测试功能允许用户手动、自动化地测试Web应用程序的各种特性，例如像登陆、下拉菜单、滚动等方面 。</li><li>并行测试：LambdaTest提供了并行执行测试用例的功能，使用户可以在较短的时间内完成更多的测试。</li><li>Bug 捕获工具：LambdaTest配备了一套强大的Bug记录和管理工具，帮助用户轻松捕获和管理其测试中发现的所有Bug以便追溯，解决问题。</li><li>高级安全功能：LambdaTest提供高级安全功能来保护用户敏感数据和测试结果的安全。它还包括私人网络和VPN，以确保用户的数据得到保护和安全传输。</li></ol><h3 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h3><ul><li>适用于各种浏览器和操作系统：Lambdatest支持超过2000种不同类型的浏览器和操作系统，您可以在任何设备上使用该平台进行测试。</li><li>实施方便：使用Lambdatest进行测试非常容易。只需上传您想要测试的代码和测试脚本，并选择需要测试的配置，Lambdatest将处理其余部分。</li><li>高度安全：Lambdatest采用SSL / TLS协议来保护用户敏感数据，确保最高级别的数据安全性。</li><li>支持自动化测试：您可以使用Lambdatest执行自动化测试，它与各种自动化框架和库兼容。</li><li>提供实时测试环境：Lambdatest提供实时测试环境，让您可以立即查看测试结果。这意味着您可以即时检测到错误并加以纠正，并可从开始就更好地了解应用程序的表现。</li><li>管理测试项目的方便：Lambdatest提供一个简单而直观的用户界面，使您能够轻松管理测试项目。您可以随时查看测试进度并分享测试结果。</li><li>提供竞争力价值：Lambdatest价格合理，为小型企业和初创公司提供了测试功能。</li></ul><h2 id="SauceLabs"><a href="#SauceLabs" class="headerlink" title="SauceLabs"></a>SauceLabs</h2><p>SauceLabs 是一种基于云平台的 Web 和 移动应用自动化测试工具，它提供了一种简单有效的方法来测试 web 应用和移动应用在不同操作系统、浏览器和设备上的表现。SauceLabs 平台可以在不同的环境中执行不同的自动化测试，例如独立脚本的支持、多个浏览器的同时支持等等。在 SauceLabs 中，您只需编写一次自动化脚本即可实现在 iOS、Android、Windows 或 Mac 操作系统上运行的浏览器中进行测试。</p><h3 id="功能-1"><a href="#功能-1" class="headerlink" title="功能"></a>功能</h3><ol><li>Cross Browser 测试：SauceLabs 允许用户同时在多个真实的浏览器和版本中运行测试，确保 Web 应用程序的兼容性。</li><li>Parallel Testing：SauceLabs 的分布式体系结构允许用户并发运行大量测试用例以获得更快的测试结果。</li><li>操作系统覆盖：SauceLabs 支持 Web 和移动应用程序测试中的所有流行操作系统 (OS) 平台。</li><li>设备模拟器和仿真：Sauce Labs 集成了模拟或模拟真实移动设备和桌面浏览器。</li><li>设备暴露：用户可以使用 SauceLabs 的套件将真实的物理 iOS 和 Android 设备连接到测试过程中。</li><li>CI/CD 整合: SauceLabs 与常用的 CI/CD 工具集成，包括 Jenkins、Travis CI、CircleCI 等等。</li><li>Debugging tools：SauceLabs 提供了一组调试工具帮助开发人员诊断问题，如截屏、日志、视频录制等。</li></ol><h3 id="优势-1"><a href="#优势-1" class="headerlink" title="优势"></a>优势</h3><p>SauceLabs 相比其他测试平台，并提供以下优势：</p><ul><li>可扩展性：随着公司团队的扩大，测试需要跟上发展的规模。SauceLabs支持可伸缩的云体系结构，允许以适合各种规模的任何一个团队或需求。</li><li>跨平台：企业对不同平台的支持要求不断增加（Windows、macOS、Linux、iOS、Android，甚至 IoT 设备），而不同的平台走向不同的趋势使得测试任务变得复杂。Sauce Labs 可以在各种浏览器和操作系统平台上执行测试，整合多个软硬件环境。</li><li>时效性：SauceLabs 可以启动无限的浏览器会话，在不需等待时间的情况下，立即在平行板上执行自动化测试，以便追求最短的周期时间（cycle time）。</li><li>成本节约：传统的广泛测试需要先从公司的测试设施或云提供商购买硬件和设备，然后运行测试来修复错误。 SauceLabs 的云测试服务减少了购买，部署，配置以及其相关管理费用。</li><li>安全性：企业级客户通常对代码库拥有完全访问权限，这意味着代码可能受到各种威胁。Sauce Labs 为每个客户专门提供虚拟机，并用于隔离和安全管控原产生的风险，确保数据和安全性。</li><li>运营可见性：Sauce Labs 提供内置的报告，运营数据和自定义仪表板来跟踪测试性能和缺陷趋势，以便全面评估测试资料的质量水平。</li></ul><h2 id="套餐对比"><a href="#套餐对比" class="headerlink" title="套餐对比"></a>套餐对比</h2><p><img src="https://cdn.jsdelivr.net/gh/youngjuning/images@main/1678943419739.png" alt="跨浏览器测试平台套餐对比"></p>]]></content:encoded>
       
       
       <category domain="https://youngjuning.js.org/categories/%E5%89%8D%E7%AB%AF/">前端</category>
@@ -3843,13 +3889,13 @@
       <category domain="https://youngjuning.js.org/categories/%E8%BF%90%E7%BB%B4/">运维</category>
       
       
-      <category domain="https://youngjuning.js.org/tags/Linux/">Linux</category>
-      
-      <category domain="https://youngjuning.js.org/tags/Ubuntu/">Ubuntu</category>
-      
       <category domain="https://youngjuning.js.org/tags/%E9%98%BF%E9%87%8C%E4%BA%91/">阿里云</category>
       
       <category domain="https://youngjuning.js.org/tags/%E8%85%BE%E8%AE%AF%E4%BA%91/">腾讯云</category>
+      
+      <category domain="https://youngjuning.js.org/tags/Linux/">Linux</category>
+      
+      <category domain="https://youngjuning.js.org/tags/Ubuntu/">Ubuntu</category>
       
       <category domain="https://youngjuning.js.org/tags/%E5%8D%8E%E4%B8%BA%E4%BA%91/">华为云</category>
       
