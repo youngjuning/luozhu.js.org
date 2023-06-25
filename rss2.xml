@@ -9,7 +9,7 @@
     <atom:link href="https://youngjuning.js.org/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>洛竹的个人博客，记录分享美好生活、学习笔记、工作经验、编程开发技巧、加密投研、金融知识、联盟营销和跨境电商，总之在洛竹的博客你会发现了一个兴趣广泛且爱折腾的程序员。</description>
-    <pubDate>Tue, 20 Jun 2023 07:16:09 GMT</pubDate>
+    <pubDate>Sun, 25 Jun 2023 01:22:38 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -840,9 +840,9 @@
       
       <category domain="https://youngjuning.js.org/tags/%E6%B4%9B%E7%AB%B9%E7%BF%BB%E8%AF%91%E8%AE%A1%E5%88%92/">洛竹翻译计划</category>
       
-      <category domain="https://youngjuning.js.org/tags/%E5%BE%AE%E8%BD%AF/">微软</category>
-      
       <category domain="https://youngjuning.js.org/tags/%E6%8E%98%E9%87%91%E7%BF%BB%E8%AF%91%E8%AE%A1%E5%88%92/">掘金翻译计划</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E5%BE%AE%E8%BD%AF/">微软</category>
       
       <category domain="https://youngjuning.js.org/tags/%E8%B0%B7%E6%AD%8C/">谷歌</category>
       
@@ -2991,9 +2991,9 @@
       
       <category domain="https://youngjuning.js.org/tags/%E6%9D%AD%E5%B7%9E/">杭州</category>
       
-      <category domain="https://youngjuning.js.org/tags/%E5%B9%B4%E5%BA%A6%E8%AE%A1%E5%88%92/">年度计划</category>
-      
       <category domain="https://youngjuning.js.org/tags/swiper/">swiper</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E5%B9%B4%E5%BA%A6%E8%AE%A1%E5%88%92/">年度计划</category>
       
       
       <comments>https://youngjuning.js.org/cb03d5cd6dce/#disqus_thread</comments>
@@ -3048,13 +3048,13 @@
       
       <category domain="https://youngjuning.js.org/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/">前端开发</category>
       
-      <category domain="https://youngjuning.js.org/tags/swiper/">swiper</category>
-      
       <category domain="https://youngjuning.js.org/tags/NPM/">NPM</category>
       
       <category domain="https://youngjuning.js.org/tags/%E5%89%8D%E7%AB%AF/">前端</category>
       
       <category domain="https://youngjuning.js.org/tags/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96/">前端工程化</category>
+      
+      <category domain="https://youngjuning.js.org/tags/swiper/">swiper</category>
       
       
       <comments>https://youngjuning.js.org/db7a22999938/#disqus_thread</comments>
