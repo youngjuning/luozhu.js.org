@@ -1,1 +1,0 @@
-function getBrowserInfo(){var e=navigator.userAgent.toLowerCase();return e.indexOf("msie")>0?e.match(/msie [\d.]+;/gi):e.indexOf("firefox")>0?e.match(/firefox\/[\d.]+/gi):e.indexOf("chrome")>0?e.match(/chrome\/[\d.]+/gi):e.indexOf("safari")>0&&e.indexOf("chrome")<0?e.match(/safari\/[\d.]+/gi):void 0}
