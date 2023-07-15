@@ -9,7 +9,7 @@
     <atom:link href="https://youngjuning.js.org/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>紫竹的个人博客，记录分享美好生活、学习笔记、工作经验、编程开发技巧、加密投研、金融知识、联盟营销和跨境电商，总之在紫竹的博客你会发现了一个兴趣广泛且爱折腾的程序员。</description>
-    <pubDate>Sat, 15 Jul 2023 08:38:07 GMT</pubDate>
+    <pubDate>Sat, 15 Jul 2023 08:44:10 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -665,9 +665,9 @@
       
       <category domain="https://youngjuning.js.org/tags/React-Native/">React Native</category>
       
-      <category domain="https://youngjuning.js.org/tags/%E8%B7%A8%E7%AB%AF%E5%BC%80%E5%8F%91/">跨端开发</category>
-      
       <category domain="https://youngjuning.js.org/tags/Flutter/">Flutter</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E8%B7%A8%E7%AB%AF%E5%BC%80%E5%8F%91/">跨端开发</category>
       
       <category domain="https://youngjuning.js.org/tags/RN/">RN</category>
       
@@ -834,9 +834,9 @@
       
       <category domain="https://youngjuning.js.org/tags/%E6%8E%98%E9%87%91/">掘金</category>
       
-      <category domain="https://youngjuning.js.org/tags/%E7%B4%AB%E7%AB%B9/">紫竹</category>
-      
       <category domain="https://youngjuning.js.org/tags/%E8%B7%A8%E7%AB%AF/">跨端</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E7%B4%AB%E7%AB%B9/">紫竹</category>
       
       <category domain="https://youngjuning.js.org/tags/%E5%AE%97%E5%BF%83/">宗心</category>
       
@@ -3015,11 +3015,11 @@
       <category domain="https://youngjuning.js.org/categories/%E6%BC%AB%E8%B0%88/">漫谈</category>
       
       
+      <category domain="https://youngjuning.js.org/tags/swiper/">swiper</category>
+      
       <category domain="https://youngjuning.js.org/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/">程序员</category>
       
       <category domain="https://youngjuning.js.org/tags/%E6%9D%AD%E5%B7%9E/">杭州</category>
-      
-      <category domain="https://youngjuning.js.org/tags/swiper/">swiper</category>
       
       <category domain="https://youngjuning.js.org/tags/%E5%B9%B4%E5%BA%A6%E8%AE%A1%E5%88%92/">年度计划</category>
       
@@ -3074,13 +3074,13 @@
       <category domain="https://youngjuning.js.org/categories/%E5%89%8D%E7%AB%AF/">前端</category>
       
       
-      <category domain="https://youngjuning.js.org/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/">前端开发</category>
-      
       <category domain="https://youngjuning.js.org/tags/NPM/">NPM</category>
       
       <category domain="https://youngjuning.js.org/tags/%E5%89%8D%E7%AB%AF/">前端</category>
       
       <category domain="https://youngjuning.js.org/tags/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96/">前端工程化</category>
+      
+      <category domain="https://youngjuning.js.org/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/">前端开发</category>
       
       <category domain="https://youngjuning.js.org/tags/swiper/">swiper</category>
       
@@ -3611,6 +3611,8 @@
       <category domain="https://youngjuning.js.org/categories/%E6%BC%AB%E8%B0%88/">漫谈</category>
       
       
+      <category domain="https://youngjuning.js.org/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/">前端开发</category>
+      
       <category domain="https://youngjuning.js.org/tags/%E5%B9%B4%E4%B8%AD%E6%80%BB%E7%BB%93/">年中总结</category>
       
       <category domain="https://youngjuning.js.org/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/">程序员</category>
@@ -3620,8 +3622,6 @@
       <category domain="https://youngjuning.js.org/tags/%E7%B4%AB%E7%AB%B9%E7%9A%84%E5%8D%9A%E5%AE%A2/">紫竹的博客</category>
       
       <category domain="https://youngjuning.js.org/tags/%E7%B4%AB%E7%AB%B9/">紫竹</category>
-      
-      <category domain="https://youngjuning.js.org/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/">前端开发</category>
       
       <category domain="https://youngjuning.js.org/tags/%E8%B7%A8%E7%AB%AF%E5%BC%80%E5%8F%91/">跨端开发</category>
       
